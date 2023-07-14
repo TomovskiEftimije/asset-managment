@@ -1,4 +1,4 @@
-# asset-managment-service
+# asset-management-service
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
